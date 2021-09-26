@@ -1,6 +1,8 @@
+package Acc.hh;
+
 import java.util.Scanner;
 
-public class CheckingAcc {
+public class CheckingAcc  {
 
 	public int Accno;
 	public String name;
@@ -55,19 +57,4 @@ public class CheckingAcc {
 		System.out.println("Your Balance is");
 		System.out.println(bal);
 	}
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int n = 0;
-		
-
-		Scanner obj=new Scanner(System.in);
- 
-System.out.println("Enter Your choice");
-System.out.println("1.Saving account");
-System.out.println("2.Checking Account");
-
-
-	}
-	
 }

@@ -1,3 +1,5 @@
+package Acc.hh;
+
 import java.util.Scanner;
 public class SavingAcc {
 public int Accno;
